@@ -4,14 +4,22 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Computer Engineer student
 ---------------------------
 
-* 🌍  I'm based in Ho Chi Minh City
-* ✉️  You can contact me at [maithehung7511@gmail.com](mailto:maithehung7511@gmail.com)
-* 🧠  I'm learning about MCUs, RTOS, AUTOSAR, DSA, AI for Automotive,...
-* 🤝  I'm open to collaborating on open-source Embedded System projects
-* ⚡  I like watching anime like One Piece, Solo Leveling,...
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🌍 I'm based in Ho Chi Minh City</li>
+        <li>📧 You can contact me at <a href="mailto:maithehung7511@gmail.com">maithehung7511@gmail.com</a></li>
+        <li>🔎 I'm learning about MCUs, RTOS, AUTOSAR, DSA, AI for Automotive</li>
+        <li>⚡ I like watching anime like One Piece, Solo Leveling,...</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media4.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" height="250">
+    </td>
+  </tr>
+</table>
 
-
-![Funny Cat](https://media4.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 ### Skills
 
