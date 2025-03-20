@@ -9,6 +9,7 @@ A Computer Engineer student
 * 🧠  I'm learning about MCUs, RTOS, AUTOSAR, DSA, AI for Automotive,...
 * 🤝  I'm open to collaborating on open-source Embedded System projects
 * ⚡  I like watching anime like One Piece, Solo Leveling,...
+![GIF](https://media.giphy.com/media/[your-gif-link](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVkZ3QyamhleWR4NW02bHhxZnA2bnJpbzR1c255cXVvcmw5a3hyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)/giphy.gif)
 
 ### Skills
 
