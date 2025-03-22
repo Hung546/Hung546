@@ -1,35 +1,68 @@
-![Coding Facts](https://www.21kschool.com/lk/wp-content/uploads/sites/24/2023/11/15-Facts-About-Coding-Every-Kid-Should-Know.png)
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mai Thế Hùng
-====================================================================================================================================
-
-A Computer Engineer student
----------------------------
-
-<img align="right" src="https://media4.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250">
-
-- 🌍 I'm based in Ho Chi Minh City
-- 📧 You can contact me at [maithehung7511@gmail.com](mailto:maithehung7511@gmail.com)
-- 🔎 I'm learning about MCUs, RTOS, AUTOSAR, DSA, AI for Automotive
-- ⚡ I like watching anime like One Piece, Solo Leveling,...
 
 
-### Skills
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hung!" />
+  </a>
+</h1>
 
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
-</p>
+<h3 align="center">A Computer Engineer student</h3>
+
+<br/>
+
+<div align="center">
+
+🌍 I'm based in **Ho Chi Minh City**  
+
+🔍 I'm learning about **MCUs, RTOS, AUTOSAR, DSA, AI for Automotive**  
+
+⚡ I like watching anime like **One Piece, Solo Leveling,...**  
+
+<div align="center">
+
+  <a href="mailto:maithehung7511@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.facebook.com/mai.the.hung.266135" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="https://twitter.com/Hung_UIT_CE" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/th%C3%A9-h%C3%B9ng-mai-739174355/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+</div>
+
+<h2 align="center">🛠 Skills 🛠</h2>
+<br/>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,python,cpp,c,vscode,arduino,linux,bash,docker" />
+  </a>
+</div>
 
 
-### Socials
+## ⚡ Stats ⚡
 
-<p align="left"> <a href="https://www.facebook.com/mai.the.hung.266135?locale=vi_VN" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/TheHungEmbedded" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/Hung_UIT_CE" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<div align="center">
+  
+  <img width=390 src="https://streak-stats.demolab.com?user=TheHungEmbedded&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=TheHungEmbedded&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
+  
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=TheHungEmbedded&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
 
-### Badges
+</div>
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/TheHungEmbedded"><img src="https://github-readme-stats.vercel.app/api?username=TheHungEmbedded&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=3382ed&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="TheHungEmbedded's GitHub stats" /></a>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;Feel+free+to+connect+with+me!" />
+</h3>
 
-<a href="http://www.github.com/TheHungEmbedded"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheHungEmbedded&stroke=3382ed&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=3382ed&currStreakLabel=3382ed&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
