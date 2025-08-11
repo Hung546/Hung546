@@ -43,7 +43,7 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,python,cpp,c,vscode,arduino,linux,bash,docker" />
+    <img src="https://skillicons.dev/icons?i=github,git,python,cpp,c,vscode,arduino,linux" />
   </a>
 </div>
 
