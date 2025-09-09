@@ -15,9 +15,9 @@
 
 🌍 I'm based in **Ho Chi Minh City**  
 
-🔍 I'm learning about **MCUs, RTOS, AUTOSAR, DSA, AI for Automotive**  
+🔍 I'm learning about **MCUs, RTOS, Ubuntu, Automotive concepts**  
 
-⚡ I like watching anime like **One Piece, Solo Leveling,...**  
+⚡ I'm seeking for more challenges  
 
 <div align="center">
 
@@ -52,11 +52,9 @@
 
 <div align="center">
   
-  <img width=390 src="https://streak-stats.demolab.com?user=TheHungEmbedded&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Hung546&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
   
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=TheHungEmbedded&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
-  
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=TheHungEmbedded&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Hung546&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
 
 </div>
 
