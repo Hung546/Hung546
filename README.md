@@ -15,7 +15,7 @@
 
 🌍 I'm based in **Ho Chi Minh City**  
 
-🔍 I'm learning about **MCUs, RTOS, Ubuntu, Automotive concepts**  
+🔍 I'm learning about **Embedded systems**  
 
 ⚡ I'm seeking for more challenges  
 
